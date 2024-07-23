@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thepeoplescoder/throw_.git"
+    "url": "git+https://github.com/thepeoplescoder/throw_.git"
   },
   "scripts": {
     "build": "tsup"
