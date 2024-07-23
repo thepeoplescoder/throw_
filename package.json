@@ -1,0 +1,25 @@
+{
+  "name": "throw_",
+  "version": "1.0.0",
+  "description": "Allows throwing exceptions as part of an expression.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "throw",
+    "exception",
+    "expression",
+    "throw_",
+    "error",
+    "handling"
+  ],
+  "author": "thepeoplescoder",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.2.2",
+    "typescript": "^5.5.4"
+  }
+}
