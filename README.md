@@ -21,12 +21,12 @@ npm run build
 
 Using ES6 modules:
 ```js
-import { throw_ } from "throw_";
+import { throw_ } from "@thepeoplescoder/throw_";
 ```
 
 Using CommonJS:
 ```js
-const { throw_ } = require("throw_");
+const { throw_ } = require("@thepeoplescoder/throw_");
 ```
 
 Afterwards, you can do things along the lines of this:

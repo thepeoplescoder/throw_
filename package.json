@@ -1,5 +1,5 @@
 {
-  "name": "throw_",
+  "name": "@thepeoplescoder/throw_",
   "version": "1.0.0",
   "description": "Allows throwing exceptions as part of an expression.",
   "main": "./dist/index.js",
